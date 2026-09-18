@@ -126,6 +126,6 @@ como Mario) têm desempenho médio por jogo superior.
 ## 5. Prints dos módulos
 
 _(adicionar aqui capturas de tela de cada módulo da aplicação rodando)_
-<img width="482" height="333" alt="image" src="https://github.com/user-attachments/assets/9916d886-c97d-4bc8-bfab-d100c6f57b3e" />
+
 
 
