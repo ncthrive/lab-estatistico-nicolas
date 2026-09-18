@@ -2,7 +2,7 @@
 
 ## 1. Dataset escolhido e justificativa
 
-Escolhemos o dataset **Video Game Sales** (fonte: Kaggle —
+Escolhi o dataset **Video Game Sales** (fonte: Kaggle —
 `gregorut/videogamesales`, coletado originalmente do site vgchartz.com).
 Ele reúne vendas globais (em milhões de cópias) de jogos por região,
 plataforma, gênero e publicadora.
