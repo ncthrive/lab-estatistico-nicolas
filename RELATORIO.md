@@ -125,7 +125,20 @@ como Mario) têm desempenho médio por jogo superior.
 
 ## 5. Prints dos módulos
 
-_(adicionar aqui capturas de tela de cada módulo da aplicação rodando)_
+Mod 0 - <img width="650" height="208" alt="image" src="https://github.com/user-attachments/assets/d029b36b-8c87-46f8-9122-2c135a621bb9" />
+Mod 2 - <img width="814" height="826" alt="image" src="https://github.com/user-attachments/assets/90eb20bf-b110-46a8-9492-265c9ff5d02d" /> and <img width="691" height="283" alt="image" src="https://github.com/user-attachments/assets/bfa64428-b005-42af-83d1-3d1efff56e38" />
+Mod 3 - <img width="788" height="741" alt="image" src="https://github.com/user-attachments/assets/3f691335-be17-41a7-a8bd-0c9df711ffa7" /> and <img width="787" height="528" alt="image" src="https://github.com/user-attachments/assets/16c20b35-ca55-4586-a19a-904d7052d702" />
+Mod 4 - <img width="820" height="680" alt="image" src="https://github.com/user-attachments/assets/ade41a7c-fb8a-4081-a4ba-e69078f9c0fd" />
+Mod 5 - <img width="830" height="739" alt="image" src="https://github.com/user-attachments/assets/e06c3eb1-9f7e-42ca-ae73-8f499042faa6" />
+Mod 6 - <img width="777" height="149" alt="image" src="https://github.com/user-attachments/assets/2d71f362-4c20-49c6-a4a0-84b57b3ffffb" />
+
+
+
+
+
+
+
+
 
 
 
