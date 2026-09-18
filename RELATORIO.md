@@ -124,13 +124,17 @@ título — gêneros mais raros como Platform (puxado por franquias icônicas
 como Mario) têm desempenho médio por jogo superior.
 
 ## 5. Prints dos módulos
+<img width="1677" height="861" alt="image" src="https://github.com/user-attachments/assets/949988b2-495e-4855-8ed2-1aa16428ab57" />
+<img width="1680" height="859" alt="image" src="https://github.com/user-attachments/assets/22cc8844-6f69-4f39-9f5a-c226fce4df94" />
+<img width="1665" height="874" alt="image" src="https://github.com/user-attachments/assets/d495e34c-aa6b-4341-a8f5-2c08461efbb6" />
+<img width="1670" height="875" alt="image" src="https://github.com/user-attachments/assets/f37f3ce6-b927-495f-8a1a-2cbb42064841" />
+<img width="1659" height="864" alt="image" src="https://github.com/user-attachments/assets/c709f1ca-bd2a-45b7-9d16-5c1278ccf789" />
+<img width="1668" height="774" alt="image" src="https://github.com/user-attachments/assets/c291d02e-e37f-45be-8832-8487f030e0bd" />
 
-Mod 0 - <img width="650" height="208" alt="image" src="https://github.com/user-attachments/assets/d029b36b-8c87-46f8-9122-2c135a621bb9" />
-Mod 2 - <img width="814" height="826" alt="image" src="https://github.com/user-attachments/assets/90eb20bf-b110-46a8-9492-265c9ff5d02d" /> and <img width="691" height="283" alt="image" src="https://github.com/user-attachments/assets/bfa64428-b005-42af-83d1-3d1efff56e38" />
-Mod 3 - <img width="788" height="741" alt="image" src="https://github.com/user-attachments/assets/3f691335-be17-41a7-a8bd-0c9df711ffa7" /> and <img width="787" height="528" alt="image" src="https://github.com/user-attachments/assets/16c20b35-ca55-4586-a19a-904d7052d702" />
-Mod 4 - <img width="820" height="680" alt="image" src="https://github.com/user-attachments/assets/ade41a7c-fb8a-4081-a4ba-e69078f9c0fd" />
-Mod 5 - <img width="830" height="739" alt="image" src="https://github.com/user-attachments/assets/e06c3eb1-9f7e-42ca-ae73-8f499042faa6" />
-Mod 6 - <img width="777" height="149" alt="image" src="https://github.com/user-attachments/assets/2d71f362-4c20-49c6-a4a0-84b57b3ffffb" />
+
+
+
+
 
 
 
